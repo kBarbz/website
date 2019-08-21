@@ -2,7 +2,7 @@ $(function(){
 let chosenName;
 let chosenTeam;
 let chosenStat; 
-
+let $restartButton = $('#restart').detach();
 
 $('#dropdown-team').change(function() {
 
@@ -29,13 +29,24 @@ $('#dropdown-team').change(function() {
 
   		
 })
-$('.submit').click(function() {
+
+$('.calculate').click(function() {
 	chosenTeam = $("#dropdown-team :selected").text();
 	chosenName = $("#dropdown-name :selected").text();
 	chosenStat = $("#dropdown-stat :selected").text();
-	console.log(chosenStat);
-
+	
+	$('#title').text(chosenName);
+	 $('#restart-button').append($restartButton);
+	$detached = $('.main1').detach();
+	
 })
 
+
+$('#restart-button').click(function() {
+	console.log('Clicked');
+	$('#title').text('Silly Statistics');
+	$('.main').prepend($detached);
+	$('#restart').detach();
+});
 
 });
