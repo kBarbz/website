@@ -6,6 +6,7 @@ let $restartButton = $('#restart').detach();
 
 $('#dropdown-team').change(function() {
 
+	$('.pre-value1').remove();
 	chosenTeam = $("#dropdown-team :selected").text() 	// Variable equals what was selected
 	$('.currentTeam').remove()		// Remove the current options
 
@@ -29,6 +30,10 @@ $('#dropdown-team').change(function() {
 
   		
 })
+$('#dropdown-stat').change(function() {
+	$('.pre-value2').remove();
+})
+
 
 $('.calculate').click(function() {
 	chosenTeam = $("#dropdown-team :selected").text();
