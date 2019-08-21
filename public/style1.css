@@ -1,0 +1,23 @@
+.form-group{
+	padding: 20px;
+}
+
+.form-control{
+	width: 300px;
+}
+
+h1{
+	text-align: center;
+}
+
+.top{
+	padding: 50px;
+}
+
+.bottom{
+	padding: 50px;
+}
+
+.button{
+	padding-top: 20px;
+}
