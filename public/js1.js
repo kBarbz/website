@@ -3,6 +3,8 @@ let chosenName;
 let chosenTeam;
 let chosenStat; 
 let $restartButton = $('#restart').detach();
+let totalData;
+let statNum;
 
 $('#dropdown-team').change(function() {
 
@@ -15,6 +17,7 @@ $('#dropdown-team').change(function() {
 			console.log("No data received");	
 		}
 		console.log("Received data");
+		totalData = data;
 		switch(chosenTeam){
 			case "Bedford":
 			for (let i = 0; i < data.length; i++){
@@ -48,33 +51,51 @@ $('#dropdown-team').change(function() {
 			break;
 		}
 		})
+});
 
-  		
-})
+$('#dropdown-name').change(function() {
+	  		chosenName = $("#dropdown-name :selected").text()
+	  	});
+
+
 $('#dropdown-stat').change(function() {
 	$('.pre-value2').remove();
-})
+	chosenStat = $("#dropdown-stat :selected").text();
+	
+});
 
 
 $('.calculate').click(function() {
-	chosenTeam = $("#dropdown-team :selected").val();
-	chosenName = $("#dropdown-name :selected").val();
+
+	chosenTeam = $("#dropdown-team :selected").text();
+	chosenName = $("#dropdown-name :selected").text();
 	chosenStat = $("#dropdown-stat :selected").val();
+	console.log(chosenStat);
+
+	let chosenObj = totalData.find(o => o['Name'] == chosenName);
 	
-	if(chosenTeam = "") {
-		console.log('fail');
+	if (chosenObj[chosenStat] != "") {
+		statNum = chosenObj[chosenStat];
+	} else {
+		statNum = 0;
 	}
+
+	console.log(statNum);
+	let main2 = '<div class="main2"><div class="d-flex justify-content-center"><h2 id="statistic">' + chosenStat + '</h2></div><div class="d-flex justify-content-center"><span id="number">' + statNum + '</span></div></div>';
 	$('#title').text(chosenName);
-	 $('#restart-button').append($restartButton);
+	$('#restart-button').append($restartButton);
 	$detached = $('.main1').detach();
-	
-})
+	$('.main').prepend(main2);
+
+	})
 
 
 $('#restart-button').click(function() {	
 	$('#title').text('Silly Statistics');
 	$('.main').prepend($detached);
 	$('#restart').detach();
+	$main2 = $('.main2').detach();
+
 });
 
 });
