@@ -24,20 +24,86 @@ app.use(express.static(__dirname + '/public'));
     })
 }
 
-let result;
+let bedford;
 jsonReader('./public/bedfordJSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
     }
-    result = team;
+    bedford = team;
+})
+
+let bm1;
+jsonReader('./public/bayswater1JSON.json', (err, team) => {
+    if (err) {
+        console.log(err)
+        return
+    }
+    bm1 = team;
+})
+
+let bm2;
+jsonReader('./public/bayswater2JSON.json', (err, team) => {
+    if (err) {
+        console.log(err)
+        return
+    }
+    bm2 = team;
+})
+
+let bm3;
+jsonReader('./public/bayswater3JSON.json', (err, team) => {
+    if (err) {
+        console.log(err)
+        return
+    }
+    bm3 = team;
+})
+
+let f1;
+jsonReader('./public/fremantle1JSON.json', (err, team) => {
+    if (err) {
+        console.log(err)
+        return
+    }
+    f1 = team;
+})
+
+let f2;
+jsonReader('./public/fremantle2JSON.json', (err, team) => {
+    if (err) {
+        console.log(err)
+        return
+    }
+    f2 = team;
 })
 
 
 app.get('/teamName', function(req,res){
     console.log('GET request received for teamName');
-    res.send(result);
-    console.log(result);
+    let whichTeam = Object.keys(req.query)
+    switch(whichTeam[0]) {
+        case 'Bedford':
+        res.send(bedford);
+        break;
+        case 'Bayswater Morley 1':
+        res.send(bm1);
+        break;
+        case 'Bayswater Morley 2':
+        res.send(bm2);
+        break;
+        case 'Bayswater Morley 3':
+        res.send(bm3);
+        break;
+        case 'Fremantle 1':
+        res.send(f1);
+        break;
+        case 'Fremantle 2':
+        res.send(f2); 
+        break;
+    }
+
+    
 })
 
 app.listen(port, function(){
