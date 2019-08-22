@@ -9,12 +9,12 @@
 	"RBIs": 11,
 	"Ks": 2,
 	"BBs": 2,
-	"Batting Avg": 0.357,
-	"Slugging Pct": 0.929,
-	"OPS": 1.373,
-	"OBP": 0.444,
+	"Batting Avg": "0.357",
+	"Slugging Pct": "0.929",
+	"OPS": "1.373",
+	"OBP": "0.444",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Aaryan Kapoor",
 	"Games Played": 8,
@@ -26,12 +26,12 @@
 	"RBIs": 4,
 	"Ks": 5,
 	"BBs": 2,
-	"Batting Avg": 0.000,
-	"Slugging Pct": 0.000,
-	"OPS": 0.182,
-	"OBP": 0.182,
+	"Batting Avg": "0.000",
+	"Slugging Pct": "0.000",
+	"OPS": "0.182",
+	"OBP": "0.182",
 	"Err": 2,
-	"Fielding Pct": 0.500
+	"Fielding Pct": "0.500"
 },{
 	"Name": "Alyoius Ong",
 	"Games Played": 8,
@@ -43,12 +43,12 @@
 	"RBIs": "",
 	"Ks": 3,
 	"BBs": "",
-	"Batting Avg": 0.000,
-	"Slugging Pct": 0.000,
-	"OPS": 0.000,
-	"OBP": 0.000,
+	"Batting Avg": "0.000",
+	"Slugging Pct": "0.000",
+	"OPS": "0.000",
+	"OBP": "0.000",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Harrison Bailey",
 	"Games Played": 8,
@@ -60,12 +60,12 @@
 	"RBIs": 2,
 	"Ks": 4,
 	"BBs": 2,
-	"Batting Avg": 0.250,
-	"Slugging Pct": 0.333,
-	"OPS": 0.690,
-	"OBP": 0.357,
+	"Batting Avg": "0.250",
+	"Slugging Pct": "0.333",
+	"OPS": "0.690",
+	"OBP": "0.357",
 	"Err": 1,
-	"Fielding Pct": 0.667
+	"Fielding Pct": "0.667"
 },{
 	"Name": "Harrison Mei",
 	"Games Played": 7,
@@ -77,12 +77,12 @@
 	"RBIs": 3,
 	"Ks": 1,
 	"BBs": 2,
-	"Batting Avg": 0.500,
-	"Slugging Pct": 1.100,
-	"OPS": 1.683,
-	"OBP": 0.583,
+	"Batting Avg": "0.500",
+	"Slugging Pct": "1.100",
+	"OPS": "1.683",
+	"OBP": "0.583",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Jayden French",
 	"Games Played": 8,
@@ -94,12 +94,12 @@
 	"RBIs": 5,
 	"Ks": 4,
 	"BBs": "",
-	"Batting Avg": 0.143,
-	"Slugging Pct": 0.357,
-	"OPS": 0.490,
-	"OBP": 0.133,
+	"Batting Avg": "0.143",
+	"Slugging Pct": "0.357",
+	"OPS": "0.490",
+	"OBP": "0.133",
 	"Err": 3,
-	"Fielding Pct": 0.850
+	"Fielding Pct": "0.850"
 },{
 	"Name": "Jordan Jefferies",
 	"Games Played": 7,
@@ -111,12 +111,12 @@
 	"RBIs": 2,
 	"Ks": 1,
 	"BBs": 3,
-	"Batting Avg": 0.333,
-	"Slugging Pct": 0.500,
-	"OPS": 1.056,
-	"OBP": 0.556,
+	"Batting Avg": "0.333",
+	"Slugging Pct": "0.500",
+	"OPS": "1.056",
+	"OBP": "0.556",
 	"Err": 1,
-	"Fielding Pct": 0.500
+	"Fielding Pct": "0.500"
 },{
 	"Name": "Lachlan Collins",
 	"Games Played": 8,
@@ -128,12 +128,12 @@
 	"RBIs": 3,
 	"Ks": 2,
 	"BBs": 3,
-	"Batting Avg": 0.429,
-	"Slugging Pct": 0.571,
-	"OPS": 1.171,
-	"OBP": 0.600,
+	"Batting Avg": "0.429",
+	"Slugging Pct": "0.571",
+	"OPS": "1.171",
+	"OBP": "0.600",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Riley Cross",
 	"Games Played": 7,
@@ -145,12 +145,12 @@
 	"RBIs": 3,
 	"Ks": 2,
 	"BBs": 3,
-	"Batting Avg": 0.200,
-	"Slugging Pct": 0.500,
-	"OPS": 0.885,
-	"OBP": 0.385,
+	"Batting Avg": "0.200",
+	"Slugging Pct": "0.500",
+	"OPS": "0.885",
+	"OBP": "0.385",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Sam Bettles",
 	"Games Played": 8,
@@ -162,12 +162,12 @@
 	"RBIs": 6,
 	"Ks": 5,
 	"BBs": "",
-	"Batting Avg": 0.118,
-	"Slugging Pct": 0.294,
-	"OPS": 0.412,
-	"OBP": 0.118,
+	"Batting Avg": "0.118",
+	"Slugging Pct": "0.294",
+	"OPS": "0.412",
+	"OBP": "0.118",
 	"Err": 2,
-	"Fielding Pct": 0.943
+	"Fielding Pct": "0.943"
 },{
 	"Name": "Zac Gomersall",
 	"Games Played": 7,
@@ -179,12 +179,12 @@
 	"RBIs": 7,
 	"Ks": 3,
 	"BBs": 1,
-	"Batting Avg": 0.200,
-	"Slugging Pct": 0.600,
-	"OPS": 0.850,
-	"OBP": 0.250,
+	"Batting Avg": "0.200",
+	"Slugging Pct": "0.600",
+	"OPS": "0.850",
+	"OBP": "0.250",
 	"Err": 1,
-	"Fielding Pct": 0.900
+	"Fielding Pct": "0.900"
 },{
 	"Name": "Grand Total",
 	"Games Played": 84,
@@ -196,11 +196,11 @@
 	"RBIs": 46,
 	"Ks": 32,
 	"BBs": 18,
-	"Batting Avg": 0.230,
-	"Slugging Pct": 0.496,
-	"OPS": 0.829,
-	"OBP": 0.333,
+	"Batting Avg": "0.230",
+	"Slugging Pct": "0.496",
+	"OPS": "0.829",
+	"OBP": "0.333",
 	"Err": 10,
-	"Fielding Pct": 0.915
+	"Fielding Pct": "0.915"
 }
 ]

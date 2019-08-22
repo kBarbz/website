@@ -9,12 +9,12 @@
 	"RBIs": 1,
 	"Ks": 2,
 	"BBs": 1,
-	"Batting Avg": 0.100,
-	"Slugging Pct": 0.100,
-	"OPS": 0.350,
-	"OBP": 0.250,
+	"Batting Avg": "0.100",
+	"Slugging Pct": "0.100",
+	"OPS": "0.350",
+	"OBP": "0.250",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Andrew Havercroft",
 	"Games Played": 7,
@@ -26,12 +26,12 @@
 	"RBIs": 6,
 	"Ks": "",
 	"BBs": 2,
-	"Batting Avg": 0.250,
-	"Slugging Pct": 0.250,
-	"OPS": 0.583,
-	"OBP": 0.333,
+	"Batting Avg": "0.250",
+	"Slugging Pct": "0.250",
+	"OPS": "0.583",
+	"OBP": "0.333",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Brendon O'Byrne",
 	"Games Played": 8,
@@ -43,12 +43,12 @@
 	"RBIs": 8,
 	"Ks": 1,
 	"BBs": 5,
-	"Batting Avg": 0.294,
-	"Slugging Pct": 0.353,
-	"OPS": 0.788,
-	"OBP": 0.435,
+	"Batting Avg": "0.294",
+	"Slugging Pct": "0.353",
+	"OPS": "0.788",
+	"OBP": "0.435",
 	"Err": 1,
-	"Fielding Pct": 0.900
+	"Fielding Pct": "0.900"
 },{
 	"Name": "Chris Nash",
 	"Games Played": 3,
@@ -60,12 +60,12 @@
 	"RBIs": 4,
 	"Ks": "",
 	"BBs": "",
-	"Batting Avg": 1.000,
+	"Batting Avg": "1.000",
 	"Slugging Pct": 3.000,
 	"OPS": 4.000,
-	"OBP": 1.000,
+	"OBP": "1.000",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Jack Burt",
 	"Games Played": 8,
@@ -77,12 +77,12 @@
 	"RBIs": 8,
 	"Ks": 2,
 	"BBs": 5,
-	"Batting Avg": 0.333,
-	"Slugging Pct": 0.800,
-	"OPS": 1.300,
-	"OBP": 0.500,
+	"Batting Avg": "0.333",
+	"Slugging Pct": "0.800",
+	"OPS": "1.300",
+	"OBP": "0.500",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "James Watson",
 	"Games Played": 4,
@@ -94,12 +94,12 @@
 	"RBIs": "",
 	"Ks": "",
 	"BBs": "",
-	"Batting Avg": 0.333,
-	"Slugging Pct": 0.333,
-	"OPS": 0.667,
-	"OBP": 0.333,
+	"Batting Avg": "0.333",
+	"Slugging Pct": "0.333",
+	"OPS": "0.667",
+	"OBP": "0.333",
 	"Err": "",
-	"Fielding Pct": "#DIV/0!"
+	"Fielding Pct": ""
 },{
 	"Name": "Jordan Howell",
 	"Games Played": 8,
@@ -111,12 +111,12 @@
 	"RBIs": 4,
 	"Ks": 3,
 	"BBs": 2,
-	"Batting Avg": 0.357,
-	"Slugging Pct": 0.571,
-	"OPS": 1.009,
-	"OBP": 0.438,
+	"Batting Avg": "0.357",
+	"Slugging Pct": "0.571",
+	"OPS": "1.009",
+	"OBP": "0.438",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Joseph Scaramella",
 	"Games Played": 8,
@@ -128,12 +128,12 @@
 	"RBIs": 4,
 	"Ks": 6,
 	"BBs": 3,
-	"Batting Avg": 0.200,
-	"Slugging Pct": 0.400,
-	"OPS": 0.716,
-	"OBP": 0.316,
+	"Batting Avg": "0.200",
+	"Slugging Pct": "0.400",
+	"OPS": "0.716",
+	"OBP": "0.316",
 	"Err": 1,
-	"Fielding Pct": 0.857
+	"Fielding Pct": "0.857"
 },{
 	"Name": "Louis Scaramalla",
 	"Games Played": 8,
@@ -145,12 +145,12 @@
 	"RBIs": 11,
 	"Ks": 5,
 	"BBs": 2,
-	"Batting Avg": 0.500,
-	"Slugging Pct": 1.571,
+	"Batting Avg": "0.500",
+	"Slugging Pct": "1.571",
 	"OPS": 2.134,
-	"OBP": 0.563,
+	"OBP": "0.563",
 	"Err": 1,
-	"Fielding Pct": 0.933
+	"Fielding Pct": "0.933"
 },{
 	"Name": "Nathan Brown",
 	"Games Played": 8,
@@ -162,12 +162,12 @@
 	"RBIs": 1,
 	"Ks": "",
 	"BBs": 5,
-	"Batting Avg": 0.273,
-	"Slugging Pct": 0.273,
-	"OPS": 0.828,
-	"OBP": 0.556,
+	"Batting Avg": "0.273",
+	"Slugging Pct": "0.273",
+	"OPS": "0.828",
+	"OBP": "0.556",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Scott Patterson",
 	"Games Played": 7,
@@ -179,12 +179,12 @@
 	"RBIs": 10,
 	"Ks": 2,
 	"BBs": 2,
-	"Batting Avg": 0.412,
-	"Slugging Pct": 0.765,
-	"OPS": 1.238,
-	"OBP": 0.474,
+	"Batting Avg": "0.412",
+	"Slugging Pct": "0.765",
+	"OPS": "1.238",
+	"OBP": "0.474",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Grand Total",
 	"Games Played": 77,
@@ -196,11 +196,11 @@
 	"RBIs": 57,
 	"Ks": 21,
 	"BBs": 27,
-	"Batting Avg": 0.321,
-	"Slugging Pct": 0.612,
-	"OPS": 1.052,
-	"OBP": 0.440,
+	"Batting Avg": "0.321",
+	"Slugging Pct": "0.612",
+	"OPS": "1.052",
+	"OBP": "0.440",
 	"Err": 3,
-	"Fielding Pct": 0.976
+	"Fielding Pct": "0.976"
 }
 ]

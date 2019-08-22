@@ -9,12 +9,12 @@
 	"RBIs": 2,
 	"Ks": 2,
 	"BBs": "",
-	"Batting Avg": 0.143,
-	"Slugging Pct": 0.286,
-	"OPS": 0.429,
-	"OBP": 0.143,
+	"Batting Avg": "0.143",
+	"Slugging Pct": "0.286",
+	"OPS": "0.429",
+	"OBP": "0.143",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Darryl O'Dine",
 	"Games Played": 8,
@@ -26,12 +26,12 @@
 	"RBIs": 4,
 	"Ks": 4,
 	"BBs": 1,
-	"Batting Avg": 0.444,
-	"Slugging Pct": 0.444,
-	"OPS": 0.944,
-	"OBP": 0.500,
+	"Batting Avg": "0.444",
+	"Slugging Pct": "0.444",
+	"OPS": "0.944",
+	"OBP": "0.500",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Jason Garner",
 	"Games Played": 8,
@@ -43,12 +43,12 @@
 	"RBIs": 9,
 	"Ks": 3,
 	"BBs": 1,
-	"Batting Avg": 0.412,
-	"Slugging Pct": 1.000,
-	"OPS": 1.444,
-	"OBP": 0.444,
+	"Batting Avg": "0.412",
+	"Slugging Pct": "1.000",
+	"OPS": "1.444",
+	"OBP": "0.444",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Jay Rakich",
 	"Games Played": 8,
@@ -60,12 +60,12 @@
 	"RBIs": 6,
 	"Ks": 3,
 	"BBs": 4,
-	"Batting Avg": 0.357,
-	"Slugging Pct": 0.643,
-	"OPS": 1.143,
-	"OBP": 0.500,
+	"Batting Avg": "0.357",
+	"Slugging Pct": "0.643",
+	"OPS": "1.143",
+	"OBP": "0.500",
 	"Err": 2,
-	"Fielding Pct": 0.889
+	"Fielding Pct": "0.889"
 },{
 	"Name": "Kurt Barbarich",
 	"Games Played": 8,
@@ -77,12 +77,12 @@
 	"RBIs": 2,
 	"Ks": 1,
 	"BBs": 1,
-	"Batting Avg": 0.083,
-	"Slugging Pct": 0.083,
-	"OPS": 0.226,
-	"OBP": 0.143,
+	"Batting Avg": "0.083",
+	"Slugging Pct": "0.083",
+	"OPS": "0.226",
+	"OBP": "0.143",
 	"Err": 1,
-	"Fielding Pct": 0.941
+	"Fielding Pct": "0.941"
 },{
 	"Name": "Liam Thomas",
 	"Games Played": 8,
@@ -94,12 +94,12 @@
 	"RBIs": 5,
 	"Ks": 2,
 	"BBs": 1,
-	"Batting Avg": 0.364,
-	"Slugging Pct": 0.727,
-	"OPS": 1.112,
-	"OBP": 0.385,
+	"Batting Avg": "0.364",
+	"Slugging Pct": "0.727",
+	"OPS": "1.112",
+	"OBP": "0.385",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Mark Harris",
 	"Games Played": 7,
@@ -111,12 +111,12 @@
 	"RBIs": 7,
 	"Ks": 2,
 	"BBs": 1,
-	"Batting Avg": 0.667,
-	"Slugging Pct": 1.267,
-	"OPS": 1.954,
-	"OBP": 0.688,
+	"Batting Avg": "0.667",
+	"Slugging Pct": "1.267",
+	"OPS": "1.954",
+	"OBP": "0.688",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Nixon Kim",
 	"Games Played": 8,
@@ -128,12 +128,12 @@
 	"RBIs": 6,
 	"Ks": 6,
 	"BBs": 2,
-	"Batting Avg": 0.167,
-	"Slugging Pct": 0.667,
-	"OPS": 0.952,
-	"OBP": 0.286,
+	"Batting Avg": "0.167",
+	"Slugging Pct": "0.667",
+	"OPS": "0.952",
+	"OBP": "0.286",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Paul Harris",
 	"Games Played": 8,
@@ -145,12 +145,12 @@
 	"RBIs": 6,
 	"Ks": 1,
 	"BBs": 4,
-	"Batting Avg": 0.357,
-	"Slugging Pct": 0.786,
-	"OPS": 1.286,
-	"OBP": 0.500,
+	"Batting Avg": "0.357",
+	"Slugging Pct": "0.786",
+	"OPS": "1.286",
+	"OBP": "0.500",
 	"Err": 2,
-	"Fielding Pct": 0.846
+	"Fielding Pct": "0.846"
 },{
 	"Name": "Rob Ireton",
 	"Games Played": 8,
@@ -162,12 +162,12 @@
 	"RBIs": "",
 	"Ks": 5,
 	"BBs": 3,
-	"Batting Avg": 0.167,
-	"Slugging Pct": 0.250,
-	"OPS": 0.625,
-	"OBP": 0.375,
+	"Batting Avg": "0.167",
+	"Slugging Pct": "0.250",
+	"OPS": "0.625",
+	"OBP": "0.375",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Ryan Noble",
 	"Games Played": 8,
@@ -179,12 +179,12 @@
 	"RBIs": 2,
 	"Ks": 4,
 	"BBs": 1,
-	"Batting Avg": 0.529,
-	"Slugging Pct": 0.941,
-	"OPS": 1.497,
-	"OBP": 0.556,
+	"Batting Avg": "0.529",
+	"Slugging Pct": "0.941",
+	"OPS": "1.497",
+	"OBP": "0.556",
 	"Err": "",
-	"Fielding Pct": 1.000
+	"Fielding Pct": "1.000"
 },{
 	"Name": "Grand Total",
 	"Games Played": 87,
@@ -196,11 +196,11 @@
 	"RBIs": 49,
 	"Ks": 33,
 	"BBs": 19,
-	"Batting Avg": 0.357,
-	"Slugging Pct": 0.700,
-	"OPS": 1.132,
-	"OBP": 0.432,
+	"Batting Avg": "0.357",
+	"Slugging Pct": "0.700",
+	"OPS": "1.132",
+	"OBP": "0.432",
 	"Err": 5,
-	"Fielding Pct": 0.966
+	"Fielding Pct": "0.966"
 }
 ]
