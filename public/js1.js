@@ -2,6 +2,7 @@ $(function(){
 let chosenName;
 let chosenTeam;
 let chosenStat; 
+let statPrint;
 let $restartButton = $('#restart').detach();
 let totalData;
 let statNum;
@@ -70,6 +71,7 @@ $('.calculate').click(function() {
 	chosenTeam = $("#dropdown-team :selected").text();
 	chosenName = $("#dropdown-name :selected").text();
 	chosenStat = $("#dropdown-stat :selected").val();
+	statPrint =  $("#dropdown-stat :selected").text();
 	
 
 	let chosenObj = totalData.find(o => o['Name'] == chosenName);
@@ -79,8 +81,8 @@ $('.calculate').click(function() {
 	} else {
 		statNum = 0;
 	}
-	
-	let main2 = '<div class="main2"><div class="d-flex justify-content-center"><h2 id="statistic">' + chosenStat + '</h2></div><div class="d-flex justify-content-center"><span id="number">' + statNum + '</span></div></div>';
+
+	let main2 = '<div class="main2"><div class="d-flex justify-content-center"><h2 id="statistic">' + statPrint + '</h2></div><div class="d-flex justify-content-center"><span id="number">' + statNum + '</span></div></div>';
 	$('#title').text(chosenName);
 	$('#restart-button').append($restartButton);
 	$detached = $('.main1').detach();
