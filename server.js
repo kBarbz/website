@@ -3,10 +3,15 @@ const request = require('request');
 let app = express();
 let port = 3000;
 const fs = require('fs');
+const path = ('path');
 
 
 app.use(express.static(__dirname + '/public'));
 
+app.get('/', function (req, res) {
+    res.sendFile('page1.html', {root: (__dirname + '/public')
+    })
+})
 
 
   function jsonReader(filePath, cb) {
